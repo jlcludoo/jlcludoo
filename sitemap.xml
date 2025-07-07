@@ -10,63 +10,67 @@
   <url>
     <loc>https://jlcludo.in/about-us.html</loc>
     <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/blog.html</loc>
     <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/disclaimer.html</loc>
     <priority>0.5</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/refund-cancellation-policy.html</loc>
     <priority>0.5</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/anti-money-laundering-policy.html</loc>
     <priority>0.5</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/fair-play.html</loc>
     <priority>0.5</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/terms-condition.html</loc>
     <priority>0.5</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/contact.html</loc>
     <priority>0.5</priority>
-    <changefreq>monthly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/privacy-policy.html</loc>
     <priority>0.5</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
 
   <url>
   <loc>https://jlcludo.in/ludo-whatsapp-group-links.html</loc>
   <lastmod>2025-07-01</lastmod>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.8</priority>
 </url>
-
+<url>
+  <loc>https://jlcludo.in/ludo-whatsapp-groups.html</loc>
+  <priority>0.8</priority>
+  <changefreq>daily</changefreq>
+</url>
 
 </urlset>
