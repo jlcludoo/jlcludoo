@@ -3,74 +3,86 @@
 
   <url>
     <loc>https://jlcludo.in/</loc>
+    <lastmod>2025-07-08</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/about-us.html</loc>
+    <lastmod>2025-07-08</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/blog.html</loc>
+    <lastmod>2025-07-08</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/disclaimer.html</loc>
+    <lastmod>2025-07-08</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/refund-cancellation-policy.html</loc>
+    <lastmod>2025-07-08</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/anti-money-laundering-policy.html</loc>
+    <lastmod>2025-07-08</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/fair-play.html</loc>
+    <lastmod>2025-07-08</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/terms-condition.html</loc>
+    <lastmod>2025-07-08</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/contact.html</loc>
+    <lastmod>2025-07-08</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
     <loc>https://jlcludo.in/privacy-policy.html</loc>
+    <lastmod>2025-07-08</lastmod>
     <priority>0.5</priority>
     <changefreq>daily</changefreq>
   </url>
 
   <url>
-  <loc>https://jlcludo.in/ludo-whatsapp-group-links.html</loc>
-  <lastmod>2025-07-01</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://jlcludo.in/ludo-whatsapp-groups.html</loc>
-  <priority>0.8</priority>
-  <changefreq>daily</changefreq>
-</url>
+    <loc>https://jlcludo.in/ludo-whatsapp-group-links.html</loc>
+    <lastmod>2025-07-08</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jlcludo.in/ludo-whatsapp-groups.html</loc>
+    <lastmod>2025-07-08</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
 
 </urlset>
