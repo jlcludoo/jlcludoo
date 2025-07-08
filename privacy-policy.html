@@ -51,44 +51,77 @@
 </head>
 
 <body>
-  <div class="main-wrapper">
-    <!-- Header -->
-    <header class="header header-sticky">
-      <div id="main-menu" class="header-top inner-header">
-        <div class="container">
-          <div class="row header-top-inner">
-            <div class="col-lg-4">
-              <div class="logo">
-                <h3><a href="/">JLCludo</a></h3>
+  <!-- Main Wrapper Start -->
+    <div class="main-wrapper">
+      <!-- header-area start -->
+      <header class="header header-sticky">
+        <!-- header-top start -->
+        <div id="main-menu" class="header-top inner-header">
+          <div class="container">
+            <div class="row header-top-inner">
+              <div class="col-lg-4">
+                <div class="logo">
+                  <!-- <a href="/"><img src="/assets/images/logo/log.png" alt="jlc-ludo"></a>-->
+                  <h3><a href="/">JLCludo</a></h3>
+                </div>
               </div>
-            </div>
-            <div class="col-lg-8">
-              <nav class="main-navigation">
-                <ul>
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="about-us.html">About</a></li>
-                  <li><a href="disclaimer.html">Disclaimer</a></li>
-                  <li><a href="fair-play.html">Fair Play</a></li>
-                  <li><a href="blog.html">Blog</a></li>
-                  <li><a href="contact.html">Contact</a></li>
-                </ul>
-              </nav>
-            </div>
-            <div class="col">
-              <div class="mobile-menu d-block d-lg-none"></div>
+              <div class="col-lg-8">
+                <div class="main-menu">
+                  <nav class="main-navigation">
+                    <ul>
+                      <li><a href="index.html">Home</a></li>
+                      <li class="smooth-scroll">
+                        <a href="about-us.html">About</a>
+                      </li>
+                      <li><a href="disclaimer.html">Disclaimer</a></li>
+                      <li><a href="fair-play.html">Fair Play</a></li>
+                      <li><a href="blog.html">Blog</a></li>
+                      <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                  </nav>
+                </div>
+              </div>
+              <div class="col">
+                <!-- mobile-menu start -->
+                <div class="mobile-menu d-block d-lg-none"></div>
+                <!-- mobile-menu end -->
+              </div>
             </div>
           </div>
         </div>
-      </div>
-    </header>
+        <!-- Header-top end -->
+      </header>
+      <!-- Header-area end -->
 
-    <!-- Hero Section -->
-    <section class="py-5 text-center text-light" style="background: linear-gradient(135deg, #1c1c1c, #111);">
-      <div class="container" data-aos="fade-up">
-        <h1 class="display-4">Privacy Policy</h1>
-        <p class="lead mb-0">Your privacy matters. Learn how JLCludo protects your data.</p>
+    <!-- Hero Section with Responsive WhatsApp Button -->
+<section class="hero-section d-flex align-items-center position-relative text-center" style="background: url('assets/images/about/dice.png') no-repeat center center/cover; min-height: 70vh;">
+  <!-- Overlay -->
+  <div class="position-absolute top-0 start-0 w-100 h-100" style="background-color: rgba(0, 0, 0, 0.7); z-index: 1;"></div>
+
+  <!-- Content -->
+  <div class="container position-relative" style="z-index: 2;" data-aos="zoom-in">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-10 col-lg-8">
+        <h1 class="display-4 fw-bold text-white mb-3" style="text-shadow: 0 2px 6px rgba(0,0,0,0.6);">
+          Privacy Policy
+        </h1>
+        <p class="lead text-white mb-4" style="text-shadow: 0 1px 3px rgba(0,0,0,0.5);">
+          Your trust fuels our game. Discover how JLCludo keeps your data secure while you roll the dice and win big!
+        </p>
+
+        <!-- Responsive Button -->
+        <div class="d-grid gap-2 d-md-flex justify-content-center">
+          <a href="https://chat.whatsapp.com/F9uN1l4em061VsEqankUtv?mode=ac_t" target="_blank"
+             class="btn btn-success btn-lg px-4 py-2 rounded-pill w-100 w-md-auto shadow">
+            💬 Join Our WhatsApp Group
+          </a>
+        </div>
+
       </div>
-    </section>
+    </div>
+  </div>
+</section>
+
 
     <!-- Main Privacy Content -->
     <main class="py-5">
