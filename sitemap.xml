@@ -84,5 +84,12 @@
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
-
+  <!-- Individual Blog Post -->
+  <url>
+    <loc>https://jlcludo.in/ludo-whatsapp-group-join.html</loc>
+    <lastmod>2025-07-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  
 </urlset>
