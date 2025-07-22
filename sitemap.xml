@@ -98,5 +98,11 @@
     <changefreq>weekly</changefreq>
   </url>
 
-  
+    <!-- New Blog Page: Rajasthan Ludo Player -->
+  <url>
+    <loc>https://jlcludo.in/rajasthan-ludo-player.html</loc>
+    <lastmod>2025-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
 </urlset>
